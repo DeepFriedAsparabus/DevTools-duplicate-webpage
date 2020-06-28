@@ -1,0 +1,1 @@
+This is a project using the developor tools function in Mozilla Firefox. I will be inspecting google homepage and using a text editor (visual studio code/VSC) to replicate the webpage as closely as possible. I will add an addition entry at the end of this project to state the skills used and the skills i learn from working on the project. CodeNameNinjaCode.
